@@ -1,0 +1,36 @@
+/* your CSS from an earlier exercise here  */
+body {
+    background-color: skyblue;
+  }
+.centered {
+    text-align:center;
+    color: #a52a2a;
+}
+div {
+    text-align:center;
+}
+img {
+    width: 70%;
+    border: 10px solid yellow;
+}
+div {
+    font-size: 20px;
+}
+p {
+    font-size: 15px;
+}
+img {
+    margin: 30px auto;
+}
+.element {
+    color : blue;
+    background-color: orange;
+    margin: 1rem;
+    border: dotted green;
+}
+.selected {
+    border: thick solid red;
+}
+.hidden {
+    display: none;
+}
